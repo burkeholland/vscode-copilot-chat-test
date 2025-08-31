@@ -1,0 +1,434 @@
+[
+	{
+		"name": "terminal (git) [panel] [bash] - add a git remote",
+		"requests": [
+			"c0228bb076f6018f9d16096726c30e22c7cb3eaed4a1dd8a1117e29b1e2de4ac"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - add a git remote (strict)",
+		"requests": [
+			"c0228bb076f6018f9d16096726c30e22c7cb3eaed4a1dd8a1117e29b1e2de4ac"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - checkout the foo branch",
+		"requests": [
+			"e158e84eeb858047ed321faa3496669dfc38dce4cf615bae88964177be3bc56e"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - checkout the foo branch (strict)",
+		"requests": [
+			"e158e84eeb858047ed321faa3496669dfc38dce4cf615bae88964177be3bc56e"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - create a git repo in this folder",
+		"requests": [
+			"299b384faae6b77d1a4b25934f0bc68e05aac0fa0c009afad538bbc3347d8915"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - create a git repo in this folder (strict)",
+		"requests": [
+			"299b384faae6b77d1a4b25934f0bc68e05aac0fa0c009afad538bbc3347d8915"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - create and checkout the foo branch",
+		"requests": [
+			"8d439f57ffc8ffcb9b9e0c5a69a9334b47d0845d44fb4edac8ffdc095189ddaa"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - create and checkout the foo branch (strict)",
+		"requests": [
+			"8d439f57ffc8ffcb9b9e0c5a69a9334b47d0845d44fb4edac8ffdc095189ddaa"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - delete the foo branch",
+		"requests": [
+			"a27e7027f41d10dc33642eb8c4fe3ec1a1bed270b2cf1e76815185df7e7c8cc1"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - delete the foo branch (strict)",
+		"requests": [
+			"a27e7027f41d10dc33642eb8c4fe3ec1a1bed270b2cf1e76815185df7e7c8cc1"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - enable colors in the git cli",
+		"requests": [
+			"c66636619408b277ac4ed236760e1b8acaf3a9112468fc7d3bc2271d4b43e10a"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - enable colors in the git cli (strict)",
+		"requests": [
+			"c66636619408b277ac4ed236760e1b8acaf3a9112468fc7d3bc2271d4b43e10a"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - list all git commits by Daniel",
+		"requests": [
+			"baaca2f8e632ce6f8096d222b9a515f8ae8c922b3c5b7c9971e264ed6ddb2ec9"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - list all git commits by Daniel (strict)",
+		"requests": [
+			"baaca2f8e632ce6f8096d222b9a515f8ae8c922b3c5b7c9971e264ed6ddb2ec9"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - merge the branch foo into this branch",
+		"requests": [
+			"2c6de5b98a0d8e9233e931b33342a4642da1722cdf58ce6abb5e0fa247ccaddc"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - merge the branch foo into this branch (strict)",
+		"requests": [
+			"2c6de5b98a0d8e9233e931b33342a4642da1722cdf58ce6abb5e0fa247ccaddc"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - show last git commit details",
+		"requests": [
+			"24a8da1b2cfc58e493b6394cbda86c5414221f4a43d07ff411348e995ec8707d"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [bash] - show last git commit details (strict)",
+		"requests": [
+			"24a8da1b2cfc58e493b6394cbda86c5414221f4a43d07ff411348e995ec8707d"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - add a git remote",
+		"requests": [
+			"28a4c009ea478eb5810ed3dff4d9fa157a7e2827be8024c275d8bd9cd7db840c"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - add a git remote (strict)",
+		"requests": [
+			"28a4c009ea478eb5810ed3dff4d9fa157a7e2827be8024c275d8bd9cd7db840c"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - checkout the foo branch",
+		"requests": [
+			"819a3da2a35c8a55a6363fa116fde18012d7b9bb3bcc804815216f686bc61b09"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - checkout the foo branch (strict)",
+		"requests": [
+			"819a3da2a35c8a55a6363fa116fde18012d7b9bb3bcc804815216f686bc61b09"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - create a git repo in this folder",
+		"requests": [
+			"ded48975768a92f934e4e1eb5ad32d45ffa5b752044e939f7cde9b32192d3d62"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - create a git repo in this folder (strict)",
+		"requests": [
+			"ded48975768a92f934e4e1eb5ad32d45ffa5b752044e939f7cde9b32192d3d62"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - create and checkout the foo branch",
+		"requests": [
+			"7815709ac7c8dd551a5a612b9862333d4bba963494569933a8b7f7345cc1cbab"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - create and checkout the foo branch (strict)",
+		"requests": [
+			"7815709ac7c8dd551a5a612b9862333d4bba963494569933a8b7f7345cc1cbab"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - delete the foo branch",
+		"requests": [
+			"e3d827ba894c5c0dc11fe91ad470642a958bbea06e652cfafdba314c4fcf6709"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - delete the foo branch (strict)",
+		"requests": [
+			"e3d827ba894c5c0dc11fe91ad470642a958bbea06e652cfafdba314c4fcf6709"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - enable colors in the git cli",
+		"requests": [
+			"c03b1f730db337a6ae40eebe5d1387e202399a6b026d6c6a9d646fb197d5015b"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - enable colors in the git cli (strict)",
+		"requests": [
+			"c03b1f730db337a6ae40eebe5d1387e202399a6b026d6c6a9d646fb197d5015b"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - list all git commits by Daniel",
+		"requests": [
+			"56f9f630f64c3fefd18bbe8223d14c8c816612d91d059e1042205e88ec866b8c"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - list all git commits by Daniel (strict)",
+		"requests": [
+			"56f9f630f64c3fefd18bbe8223d14c8c816612d91d059e1042205e88ec866b8c"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - merge the branch foo into this branch",
+		"requests": [
+			"76cea2a2f54638cd87ab5adf685515f17ff2d0e2ef4be6e85f8742b05ea31365"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - merge the branch foo into this branch (strict)",
+		"requests": [
+			"76cea2a2f54638cd87ab5adf685515f17ff2d0e2ef4be6e85f8742b05ea31365"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - show last git commit details",
+		"requests": [
+			"933f5a30cb26c115b9044f9de6389921a84b774d0fbad2c2b6b7bec242ae6da1"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [fish] - show last git commit details (strict)",
+		"requests": [
+			"933f5a30cb26c115b9044f9de6389921a84b774d0fbad2c2b6b7bec242ae6da1"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - add a git remote",
+		"requests": [
+			"e39bf96fcbe074101f317de850a2cea5353efa8a4df63d731aadde6dfb056515"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - add a git remote (strict)",
+		"requests": [
+			"e39bf96fcbe074101f317de850a2cea5353efa8a4df63d731aadde6dfb056515"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - checkout the foo branch",
+		"requests": [
+			"5e8a7c1dbdd8616820513acd0bedb7ee4e1d34dee4f6f5b93cf546b386f309f8"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - checkout the foo branch (strict)",
+		"requests": [
+			"5e8a7c1dbdd8616820513acd0bedb7ee4e1d34dee4f6f5b93cf546b386f309f8"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - create a git repo in this folder",
+		"requests": [
+			"89f9915577f721828eb9a8c0be4d1c2e8017270482a0b790123e5e4c10ce0b18"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - create a git repo in this folder (strict)",
+		"requests": [
+			"89f9915577f721828eb9a8c0be4d1c2e8017270482a0b790123e5e4c10ce0b18"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - create and checkout the foo branch",
+		"requests": [
+			"27d5d0e97b09849950beedf041e8e845ece0b2deaa6c8b2c39628d50e10d697e"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - create and checkout the foo branch (strict)",
+		"requests": [
+			"27d5d0e97b09849950beedf041e8e845ece0b2deaa6c8b2c39628d50e10d697e"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - delete the foo branch",
+		"requests": [
+			"f0c660f95e1a7e85406e0f456825dc96e1bfec7e5b382de1cca7dda4429bd643"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - delete the foo branch (strict)",
+		"requests": [
+			"f0c660f95e1a7e85406e0f456825dc96e1bfec7e5b382de1cca7dda4429bd643"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - enable colors in the git cli",
+		"requests": [
+			"2fbea8130452f967ddf00693f67cc8956ed07a56eff6fd12deaa8cb858df52d9"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - enable colors in the git cli (strict)",
+		"requests": [
+			"2fbea8130452f967ddf00693f67cc8956ed07a56eff6fd12deaa8cb858df52d9"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - list all git commits by Daniel",
+		"requests": [
+			"6f630d2b45d2399d47ecf74c19524a4e79cdd211a126a2cd9bafd4c0fbca9fe2"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - list all git commits by Daniel (strict)",
+		"requests": [
+			"6f630d2b45d2399d47ecf74c19524a4e79cdd211a126a2cd9bafd4c0fbca9fe2"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - merge the branch foo into this branch",
+		"requests": [
+			"00f57e1a3babe9a0f306fdfad81c398c71b8cc1e7614317f98426fc283ada2ec"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - merge the branch foo into this branch (strict)",
+		"requests": [
+			"00f57e1a3babe9a0f306fdfad81c398c71b8cc1e7614317f98426fc283ada2ec"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - show last git commit details",
+		"requests": [
+			"e1390ebed541fd5d065bd78149716f7022f23976f061bddb0666a2b9a29b18a0"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [powershell] - show last git commit details (strict)",
+		"requests": [
+			"e1390ebed541fd5d065bd78149716f7022f23976f061bddb0666a2b9a29b18a0"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - add a git remote",
+		"requests": [
+			"1a992823ba1eb6e47648c7ff97a88ec5f8579a866f37dcb590456daff5b28fd2"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - add a git remote (strict)",
+		"requests": [
+			"1a992823ba1eb6e47648c7ff97a88ec5f8579a866f37dcb590456daff5b28fd2"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - checkout the foo branch",
+		"requests": [
+			"3d44a718796dbf59755f2791895acc0c190c55638dfabd7171742edeaef5945b"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - checkout the foo branch (strict)",
+		"requests": [
+			"3d44a718796dbf59755f2791895acc0c190c55638dfabd7171742edeaef5945b"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - create a git repo in this folder",
+		"requests": [
+			"9a6e3a46b2d1bb9898daf48d8735ea90da3be566029a45da0ec386ae4b120493"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - create a git repo in this folder (strict)",
+		"requests": [
+			"9a6e3a46b2d1bb9898daf48d8735ea90da3be566029a45da0ec386ae4b120493"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - create and checkout the foo branch",
+		"requests": [
+			"a6b008b5675383b6ee66a24498d5490a6d33cd0dbe2fc71e1f34ee2de99892d1"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - create and checkout the foo branch (strict)",
+		"requests": [
+			"a6b008b5675383b6ee66a24498d5490a6d33cd0dbe2fc71e1f34ee2de99892d1"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - delete the foo branch",
+		"requests": [
+			"76ef9f241ce6e30bd3b5c1c17bc526741d6f7b56a1df1921d260a3f9a3003098"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - delete the foo branch (strict)",
+		"requests": [
+			"76ef9f241ce6e30bd3b5c1c17bc526741d6f7b56a1df1921d260a3f9a3003098"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - enable colors in the git cli",
+		"requests": [
+			"f629cc37c4ba55f6d6191b4843c6efd5007fd3c8cd633d9621169b7fb7be6895"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - enable colors in the git cli (strict)",
+		"requests": [
+			"f629cc37c4ba55f6d6191b4843c6efd5007fd3c8cd633d9621169b7fb7be6895"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - list all git commits by Daniel",
+		"requests": [
+			"9f6ff093d28879de2dfd35590999a4ae6cedc9a07ce5cdca4ac17e2cae3ec05c"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - list all git commits by Daniel (strict)",
+		"requests": [
+			"9f6ff093d28879de2dfd35590999a4ae6cedc9a07ce5cdca4ac17e2cae3ec05c"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - merge the branch foo into this branch",
+		"requests": [
+			"1d7086515b3f6742b3623d46782342d54fd371a9ca8d5feb075a82c382370fd9"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - merge the branch foo into this branch (strict)",
+		"requests": [
+			"1d7086515b3f6742b3623d46782342d54fd371a9ca8d5feb075a82c382370fd9"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - show last git commit details",
+		"requests": [
+			"0984431b6946c2563d227a0f12cf566b823cad3f67141d572719848f86082fc2"
+		]
+	},
+	{
+		"name": "terminal (git) [panel] [zsh] - show last git commit details (strict)",
+		"requests": [
+			"0984431b6946c2563d227a0f12cf566b823cad3f67141d572719848f86082fc2"
+		]
+	}
+]
