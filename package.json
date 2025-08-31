@@ -2224,6 +2224,11 @@
 						"default": false,
 						"markdownDescription": "%github.copilot.config.scopeSelection%"
 					},
+					"github.copilot.chat.bigTest": {
+						"type": "boolean",
+						"default": false,
+						"markdownDescription": "%github.copilot.config.bigTest%"
+					},
 					"github.copilot.chat.useProjectTemplates": {
 						"type": "boolean",
 						"default": true,
